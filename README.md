@@ -1,6 +1,7 @@
 # Sem's GitHub Profile
 
 - Currently working on private projects and learning new languages and skills.
+- Right now I'm learning Dart and Flutter.
 
 ## GitHub Stats
 
