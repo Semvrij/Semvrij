@@ -1,8 +1,8 @@
 # Sem's GitHub Profile
 
 - Currently working on private projects and learning new languages and skills.
-- Right now I'm learning Dart and Flutter.
-- I am also learning React.
+- Right now I'm learning React.
+- I am thinking about learning GoLang.
 
 ## GitHub Stats
 
@@ -24,6 +24,8 @@
 <img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" title="Electron" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
+<img align="left" title="Dart" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<img align="left" title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 
 <br />
 
